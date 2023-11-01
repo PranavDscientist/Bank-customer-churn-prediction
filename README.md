@@ -1,1 +1,1 @@
-# Bank-customers-churn-prediction
+# Bank-customer-churn-prediction
